@@ -1,0 +1,17 @@
+.marco-sup{
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  
+}
+
+.Avance{
+  position: absolute; /* Permite posicionar las imágenes libremente */
+  z-index: 1;
+  overflow:scroll ; 
+  left: 0px;
+  width: 750px;       
+  height: 1200px;     
+  overflow-y: scroll;     
+}
